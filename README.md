@@ -16,7 +16,7 @@ karakter dan status clear dungeon.
 ## Menjalankan aplikasi
 
 ```
-python game_account_tracker.py
+python login.py
 ```
 
 - **Pertama kali dijalankan**: kamu akan diminta membuat *master password*.
